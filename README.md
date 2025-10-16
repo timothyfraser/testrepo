@@ -30,3 +30,9 @@ flowchart LR
 a --- b
 
 ```
+
+Add some code to add an image.
+
+![My image](folder/banner_icons.png)
+
+
